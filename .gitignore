@@ -41,7 +41,7 @@ local.properties
 .scala_dependencies
 .worksheet
 
-#.project
+.project
 
 .sts4-cache/
 
